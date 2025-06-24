@@ -15,3 +15,4 @@ inputNumero.addEventListener('input', function() {
         divTabuada.appendChild(ul) 
     }
 })
+
