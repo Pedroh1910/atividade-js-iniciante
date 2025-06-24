@@ -13,6 +13,5 @@ inputNumero.addEventListener('input', function() {
             ul.appendChild(li)
         }
         divTabuada.appendChild(ul) 
-        
     }
 })
